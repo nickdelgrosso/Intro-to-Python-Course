@@ -27,7 +27,7 @@ Major Focuses of the Course:
   - **Notebook Environments and Python Operators**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax1.ipynb)
   - **The Built-In Python Collection Types**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax2.ipynb)
   - **Activity**: Running Jupyter Locally
-  - **Name Assignment, Module Importing, and Comprehensions**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax3.ipynb)
-  - **Types, Objects, and Methods**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax4.ipynb)  
+  - **Name Assignment, Module Importing, and Comprehensions**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax%203.ipynb)
+  - **Types, Objects, and Methods**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax%204.ipynb)  
   - **Activity**: "Using OOP: Drawing with Turtle"
   
