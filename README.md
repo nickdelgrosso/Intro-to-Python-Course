@@ -31,3 +31,13 @@ Major Focuses of the Course:
   - **Types, Objects, and Methods**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax4.ipynb)  
   - **Activity**: "Using OOP: Drawing with Turtle"
   
+  
+### Day 1: Methods, Conditionals, Loops, and Arrays
+  - **Types, Objects, and Methods**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day1_Code_Blocks/Python%20Syntax%204.ipynb)
+  - **Conditionals: "If" statements**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day1_Code_Blocks/Python%20Syntax%205.ipynb)
+  - **Loops and Iteration**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day1_Code_Blocks/Python%20Syntax%206.ipynb)
+  - **Broadcasting with NumPy Arrays**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/masterDay1_Code_Blocks/Broadcasting.ipynb)
+  - **Activity**: Getting "Zipfy" with Literatur
+  
+  
+  
