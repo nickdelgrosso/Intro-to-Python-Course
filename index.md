@@ -1,5 +1,7 @@
 # Introduction to Python Course
 
+**Please Fill Out**: [Course Availability Doodle for Last Two Days](https://doodle.com/poll/66gynq6tqcawxqx7)
+
 ## Course Description:
 
 In this hands-on workshop, we cover the basics of the Python programming language and some of its scientific library in order to enable students to conduct data analysis using the core principles of good scientific practice, focusing on techniques for performing essential data analysis steps using real-life problems that the practicing scientist regularly encounters in his/her work. Libraries covered will be NumPy, matplotlib, Pandas, Seaborn, Scipy-Stats, and Scikit-Learn.  Students will learn to write their own functions, scripts, and Jupyter Notebooks in order to perform reproducible data analyses on a wide variety of data types, with a focus on tabular and image data. No prior programming, math, or statistics knowledge is required.  Participants will receive a certificate of completion at the end of the course, and will leave with increased confidence  in their ability to use computational tools in their research.
