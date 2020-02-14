@@ -44,7 +44,7 @@ Major Focuses of the Course:
 
 ### Day 2: Broadcasting and Encapusulation
   - **Installing and Managing Python from the Command Line**
-  - **Simplifying For-Loops and Filtering with Numpy Arrays**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/masterDay2_Encapsulation/Broadcasting.ipynb)
+  - **Simplifying For-Loops and Filtering with Numpy Arrays**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day2_Encapsulation/Broadcasting.ipynb)
   - **Activity**: Exploring Central Tendancy by Writing a Confidence Interval Script
-  - **Encapsulating Code with Functions**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/masterDay2_Encapsulation/Python%20Syntax.ipynb)
+  - **Encapsulating Code with Functions**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/masterDay2_Encapsulation/Python%20Syntax%206.ipynb)
   - **Activity**: Refactoring a Script
