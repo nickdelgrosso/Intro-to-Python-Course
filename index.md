@@ -28,22 +28,23 @@ Major Focuses of the Course:
   - **The Built-In Python Collection Types**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax2.ipynb)
   - **Activity**: Running Jupyter Locally
   - **Name Assignment, Module Importing, and Comprehensions**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax%203.ipynb)
-  - **Types, Objects, and Methods**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day0_Python_Syntax/Python%20Syntax%204.ipynb)  
   - **Activity**: "Using OOP: Drawing with Turtle"
-  
+
 #### References
 
   - [Table of Python Built-In Functions](https://docs.python.org/3/library/functions.html#built-in-functions)
   - [Documentation for Python Built-In Libraries](https://docs.python.org/3/library/index.html)
-  
+
 ### Day 1: Methods, Conditionals, Loops, and Arrays
   - **Types, Objects, and Methods**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day1_Code_Blocks/Python%20Syntax%204.ipynb)
   - **Conditionals: "If" statements**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day1_Code_Blocks/Python%20Syntax%205.ipynb)
   - **Loops and Iteration**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/master/Day1_Code_Blocks/Python%20Syntax%206.ipynb)
-  - **Broadcasting with NumPy Arrays**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/masterDay1_Code_Blocks/Broadcasting.ipynb)
   - **Activity**: Getting "Zipfy" with Literature
-  
 
-  
-  
-  
+
+### Day 2: Broadcasting and Encapusulation
+  - **Installing and Managing Python from the Command Line**
+  - **Simplifying For-Loops and Filtering with Numpy Arrays**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/masterDay2_Encapsulation/Broadcasting.ipynb)
+  - **Activity**: Exploring Central Tendancy by Writing a Confidence Interval Script
+  - **Encapsulating Code with Functions**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/masterDay2_Encapsulation/Python%20Syntax.ipynb)
+  - **Activity**: Refactoring a Script
