@@ -48,3 +48,19 @@ Major Focuses of the Course:
   - **Activity**: Exploring Central Tendancy by Writing a Confidence Interval Script
   - **Encapsulating Code with Functions**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/Intro-to-Python-Course/blob/masterDay2_Encapsulation/Python%20Syntax%206.ipynb)
   - **Activity**: Refactoring a Script
+
+
+### Day 3: Numpy Arrays
+
+### Day 4: DataFrames
+     - Jupyter Exercises: File Formats and Associated Data Structures: 
+         - Goal: To show how to load various file types into Python (e.g. json, text, csv, hdf5, mat, pickle, binary packets, etc)
+         - Goal: to review and discuss the various pros/cons with these types (performance, human readability, compression, schema, structure, metadata, etc)
+     - Jupyter Exercises: Intro to Pandas DataFrames
+         - Goal: To get familiar with Pandas and working with tabular data.  
+
+
+  - Afternoon **Abstracting Short Data Analysis Pipelines**:
+     - Demo: the Split-Apply-Combine Workflow in Pandas
+         - Goal: To discuss analysis abstraction and learn powerful techniques for manipulating data with pandas
+    - Special Topics (On Request)
