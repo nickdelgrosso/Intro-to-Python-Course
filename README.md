@@ -1,6 +1,5 @@
 # Introduction to Python Course
 
-**Please Fill Out**: [Course Availability Doodle for Last Two Days](https://doodle.com/poll/66gynq6tqcawxqx7)
 
 ## Course Description:
 
